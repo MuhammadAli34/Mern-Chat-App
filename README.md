@@ -36,7 +36,7 @@ Go to the project directory
  cd backend
 ````
 
-Install dependencies
+Install dependencies frontend
 
 ```bash
   npm install
@@ -46,6 +46,11 @@ Start the server for frontend
 
 ```bash
   npm run dev
+```
+Install dependencies backend
+
+```bash
+  npm install
 ```
 Start the server for backend
 
