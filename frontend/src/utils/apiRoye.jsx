@@ -1,0 +1,9 @@
+export const host = import.meta.env.VITE_HOST;
+export const registerRoute = `${host}/api/auth/register`;
+export const loginRoute = `${host}/api/auth/login`;
+export const setAvatarRoute = `${host}/api/auth/setavatar`;
+export const AllUsersRoute = `${host}/api/auth/allusers`;
+export const sendMessagesRoute = `${host}/api/messages/addmsg`;
+export const getAllMessagesRoute = `${host}/api/messages/getmsg`;
+export const checkUserNameRoute = `${host}/api/auth/checkusername`;
+export const firebaseLoginRoute = `${host}/api/auth/firebaselogin`;
