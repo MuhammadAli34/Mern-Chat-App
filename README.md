@@ -13,7 +13,8 @@ https://mern-chat-app-frontend-rq62.onrender.com
 
 ## Screenshots OF the website
 
-![preview](https://github.com/MuhammadAli34/Fashion-Shop/assets/107616847/5c8417f1-15a7-4621-a90a-d2acff1961f1)
+![preview](https://github.com/MuhammadAli34/Mern-Chat-App/assets/107616847/3e3b78fc-cbd2-4ee3-906d-716bb8a6ea28)
+
 
 ## Run Locally
 
