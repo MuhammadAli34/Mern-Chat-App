@@ -47,12 +47,13 @@ Start the server for frontend
 ```bash
   npm run dev
 ```
-
 Start the server for backend
 
-````bash
+```bash
   npm start
-```Dont Forget to modify host in frontend to your localhost backend backend
+```
+
+Dont Forget to modify host in frontend to your localhost backend backend
 and in backend change ORGIN to forntend localhost too
 ## Tech Stack
 
